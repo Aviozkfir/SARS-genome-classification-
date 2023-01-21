@@ -4,7 +4,7 @@
 	Opertaion System	-	Windows
 	Python		-	Version 3.6<should be <=3.10
 	Python packages	-	Should Install automatically before running scripts in the GUI, can be installed manually by the file "packages.txt" in Process folder.
-	Configuration	-	In the file "CovidAnalyzer.config line 14, the user should change the value to his python.exe path in the computer.
+	Configuration	-	In the file "SARS_classification_app.exe.config" line 14, the user should change the value to his python.exe path in the computer.
 	Files for running 	-	In Process folder should be the original files to get successfull running: data.txt, packages.txt, post_calc.py, SARS_ANALYZE.py, SARS_list.txt,w2v.model
 
                 USER STEPS FOR RUNNING
