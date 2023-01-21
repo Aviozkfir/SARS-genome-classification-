@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp4.Properties" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="PythonPath" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Users\avioz\AppData\Local\Programs\Python\Python39\python.exe</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>
